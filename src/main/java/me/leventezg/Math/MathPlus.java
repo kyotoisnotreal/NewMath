@@ -1,4 +1,4 @@
-package me.leventezg.MathPlus;
+package me.leventezg.Math;
 import java.util.HashMap;
 import java.util.Map;
 
